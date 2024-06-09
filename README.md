@@ -29,3 +29,27 @@ Saída Esperada
 1 3 N
 5 1 E
 
+## Resolução
+
+### Resolvi utilizar o design patterns state. 
+### [referência](https://refactoring.guru/design-patterns/state)
+
+## Utilizando o projeto
+
+### Instalar as dependências
+$ yarn install
+
+### Para verificar a saída:
+$ yarn start
+
+<h1 align="center">
+<img src="https://ik.imagekit.io/fg2sso3fmlf/output_YGclcIZMO.png?updatedAt=1717959110383">
+<h1>
+
+### Testes unitários
+$ yarn test
+
+<h1 align="center">
+<img src="https://ik.imagekit.io/fg2sso3fmlf/unit-tests_ZPfLoHkAO.png?updatedAt=1717959241004">
+<h1>
+

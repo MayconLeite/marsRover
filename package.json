@@ -4,7 +4,7 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "test": "tsc && jest dist/test",
+        "test": "yarn jest --coverage",
         "start": "npx ts-node src/index.ts"
     },
     "keywords": [],

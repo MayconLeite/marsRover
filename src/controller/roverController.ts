@@ -60,4 +60,4 @@ function createDirectionState(direction: string): DirectionState {
     }
 }
 
-export { commandRover }
+export { commandRover, parseInput, createDirectionState }
